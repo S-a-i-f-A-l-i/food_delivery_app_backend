@@ -1,0 +1,23 @@
+{
+  "name": "food_delivery_app_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S-a-i-f-A-l-i/food_delivery_app_backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/S-a-i-f-A-l-i/food_delivery_app_backend/issues"
+  },
+  "homepage": "https://github.com/S-a-i-f-A-l-i/food_delivery_app_backend#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
